@@ -1,4 +1,26 @@
 .page-navigation {
 	background-color:#60328E;
 	color:#FFF;
+	height:50px;
+}
+
+.page-navigation ul {
+	list-style: none;
+}
+
+.page-navigation ul li {
+	padding: 5px 25px;
+	float: left;
+	line-height: 40px;
+}
+
+.page-navigation ul li a {
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.page-navigation ul li a:hover {
+	color:#800000;
+	text-decoration: underline;
 }
