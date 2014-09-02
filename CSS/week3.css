@@ -1,0 +1,19 @@
+h1 {
+	color:#00CC66;
+	text-decoration: underline;
+}
+
+p {
+	padding: 20px;
+	color:#0000FF;
+}
+
+.anchors {
+	color:#FF0000;
+
+}
+
+.anchors a:hover {
+	color:#FFFF66;
+	text-decoration: none;
+}
