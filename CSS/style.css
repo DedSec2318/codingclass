@@ -1,13 +1,11 @@
-body {
-	background-color: #CADDE5;
-	padding:40px;
+.container {
+	width:740px;
+	margin: auto;
+
 }
 
-h1 {
-	color:#2980B9;
-	font-size:40px;
-}
-
-h3 {
-	color:#E74C3C;
+.main-header {
+	height:110px;
+	color:#FFFFFF;
+	background-color:royalblue;
 }
