@@ -9,3 +9,21 @@
 	color:#FFFFFF;
 	background-color:royalblue;
 }
+
+.main-content {
+	padding: 20px;
+	background-color: lightgrey;
+}
+
+.main-footer {
+	height: 100px;
+	color:#FFFFFF;
+	background-color: #222;
+}
+
+.base {
+	padding-top: 50px;
+	color: #FFF;
+	text-align: center;
+	font-size: 24px;
+}
