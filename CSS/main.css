@@ -9,7 +9,7 @@
 }
 
 .page-navigation ul li {
-	padding: 5px 25px;
+	padding: 10px 35px;
 	float: left;
 	line-height: 40px;
 }
@@ -19,14 +19,18 @@
     text-decoration: none;
     font-weight: bold;
     font-size: 20px;
+    padding: 10px 25px;
 }
 .page-navigation ul li a:hover {
 	color:#800000;
 	text-decoration: underline;
 }
 
-.ME {
+.name-header {
 	color:#CC0000;
+	font-size: 35px;
+
+
 }
 
 .VID {
@@ -41,4 +45,12 @@
 .link ul li a:hover {
 	color:#00CC00;
 	text-decoration: none;
+}
+
+.home-features {
+	padding: 50px;
+	background-color: lightgrey;
+	text-align: center;
+	text-decoration: bold;
+
 }
