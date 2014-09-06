@@ -1,10 +1,47 @@
 .website-header {
-	font-size: 50px;
-	
+	font-size: 70px;
+	color: #FFFFFF;
+	background-color: #666699;
+	font-style: italic;
+	text-align: center;
+    height: 120px;
+    padding-top: 40px;
 }
 
-.headlines {
-	text-align: justify;
-	text-decoration: bold;
+.hf-basics {
+	font-weight: bold;
+	font-family: Arial;  
+}
 
+.website-footer {
+	font-size: 10px;
+	color: #FFFFFF;
+	background-color: #8F5252;
+	height: 40px;
+	text-align: center;
+	padding-top: 20px;
+	font-family: Arial;
+}
+
+.page-navigation ul li {
+	list-style: none;
+	position: absolute;
+	padding-top: 20px;
+	text-decoration: none;
+}
+
+.page-navigation ul li hover:{
+	text-decoration: 
+}
+
+.page-text {
+	text-align: justify;
+	font-size: 15px;
+
+}
+
+.home {
+	left: 0;
+	right: 0;
+	height: 50px;
 }
