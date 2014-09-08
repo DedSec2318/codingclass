@@ -23,25 +23,19 @@
 	font-family: Arial;
 }
 
-.page-navigation ul li {
-	list-style: none;
-	position: absolute;
-	padding-top: 20px;
-	text-decoration: none;
+#wrapper {
+	width: 1000px;
+	height: 1000px;
 }
 
-.page-navigation ul li hover:{
-	text-decoration: 
+.left {
+	height: 200px;
+	width: 200px;
+	float: left;
 }
 
-.page-text {
-	text-align: justify;
-	font-size: 15px;
-
-}
-
-.home {
-	left: 0;
-	right: 0;
-	height: 50px;
+.right {
+	height: 400px;
+	width: 800px;
+	float: right;
 }
