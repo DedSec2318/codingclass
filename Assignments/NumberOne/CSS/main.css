@@ -7,11 +7,11 @@
     height: 120px;
     padding-top: 40px;
     font-weight: bold;
-    
+    width: 1000px;
 }
 
 .page-basics {
-	
+	width: 1000px;
 	font-family: Arial; 
 
 }
@@ -28,36 +28,51 @@
 
 #wrapper {
 	width: 1000px;
-	height: 1000px;
+	height: 500px;
 }
 
 .left {
 	height: 200px;
 	width: 200px;
 	float: left;
-	margin-left: none;
+	padding: 0px;
 }
 
 .right {
-	height: 400px;
+	
 	width: 775px;
 	float: right;
 }
 
 .page-navigation ul li a {
 	color: #8F5252;
+	paddding: 0px;
 
 }
 
 .page-navigation ul li {
 	list-style: none;
 	border-bottom: 1px black dotted;
-	padding: 15px 0px;
+	padding: 0px;
+}
+
+.page-navigation ul {
+	padding: 0px;
+ 
 }
 
 .sidebar-text {
 	font-size: 15px;
 	line-height: 15px;
-	margin-left: 50px;
+	
 }
 
+.page {
+	width: 1000px;
+	margin: auto;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+}
