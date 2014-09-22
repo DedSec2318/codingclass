@@ -74,6 +74,17 @@ body {
     position: relative;
 }
 
+.content {
+	background-color: #000000;
+	color: #7D7D7D;
+	float: left;
+	position: relative;
+}
+
+.content h2 {
+	background-color: #FFFFFF;
+
+}
 .container img {
 	height: 75px;
 	float: right;
