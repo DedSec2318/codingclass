@@ -4,19 +4,17 @@
 	border-radius: 25px;
 	padding: 0px 15px;
 	overflow: hidden;
-	width: 100%;
-
+	width: 1150px;
 }
 
-.main-header span{
+.contact-info {
 	float: right;
 	font-size: 15px;
 	text-decoration: underline;
-
 }
 
 .main-header {
-	width: 50px;
+	width: 100px;
 	height: 70px;
 	color: #FFF;
 	font-size: 30px;
@@ -34,7 +32,6 @@ body {
 	float: left;
 	padding: 0px 15px;
 	position: relative;
-
 }
 
 .page-navigation ul li a {
@@ -53,39 +50,93 @@ body {
 .main-header img {
 	height: 50px;
 	width: 50px;
+	margin: 0px 2px;
+	float: right;
 }
 
 .content-header {
-	position: absolute;
+	position: relative;
+	width: 150px;
+	height: 200px;
+	font-family: arial;
+	margin: 5px 10px;
+	font-size: 15px;
 	float: left;
-	width: 170px;
-	height: 120px;
 }
 
 .content-header p {
 	height: 100px;
-
-}
-.main-content {
-	float: right;
-	font-family: Arial;
-    width: 200px;
-    height: 1500px
-    position: relative;
 }
 
+.content-wrapper {
+	width: 1050px;
+	height: 1000px;
+}
 .content {
-	background-color: #000000;
 	color: #7D7D7D;
-	float: left;
-	position: relative;
+	height: 300px;
+	width: 175px;
+	font-size: 12px;
+	font-family: arial;
+	background-color: #000000;
+	margin: 15px;
+	margin-top: 50px;
+
 }
 
 .content h2 {
 	background-color: #FFFFFF;
+	height: 145px;
 
 }
 .container img {
 	height: 75px;
 	float: right;
+
+}
+
+.content img {
+	height: 100px;
+	width: 165px;
+	margin: 5px 5px;
+}
+
+.main-header header{
+	width: 125px;
+}
+
+.srch {
+	float: left;
+}
+
+.cont1 {
+	width: 125px;
+	height: 150px;
+	float: left;
+}
+
+.cont2 {
+	float: left;
+	width: 125px;
+	height: 150px;
+}
+
+.cont3 {
+	float: left;
+}
+
+.cont4 {
+	float: left;
+}
+
+.cont5 {
+	float: left;
+}
+
+.cont6 {
+	float: left;
+}
+
+.cont7 {
+	float: left;
 }
