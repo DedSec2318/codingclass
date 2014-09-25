@@ -5,6 +5,7 @@
 	padding: 0px 15px;
 	overflow: hidden;
 	width: 1150px;
+	height: 800px;
 }
 
 .contact-info {
@@ -78,16 +79,18 @@ body {
 	width: 175px;
 	font-size: 12px;
 	font-family: arial;
-	background-color: #000000;
-	margin: 15px;
+	margin: 40px;
 	margin-top: 50px;
-
+	background-color: #000000;
 }
 
 .content h2 {
 	background-color: #FFFFFF;
-	height: 145px;
+	height: 150px;
+}
 
+.content p{
+	height: 50px;
 }
 .container img {
 	height: 75px;
@@ -113,30 +116,42 @@ body {
 	width: 125px;
 	height: 150px;
 	float: left;
+	background-color: #000;
+	margin-left: 100px;
 }
 
 .cont2 {
 	float: left;
 	width: 125px;
 	height: 150px;
+	background-color: #000;
 }
 
 .cont3 {
 	float: left;
+	background-color: #000;
 }
 
 .cont4 {
 	float: left;
+	background-color: #000;
 }
 
 .cont5 {
 	float: left;
+	background-color: #000;
 }
 
 .cont6 {
 	float: left;
+	background-color: #000;
 }
 
 .cont7 {
 	float: left;
+	background-color: #FFF;
+}
+
+.cont7 h2 {
+	background-color: #000000;
 }
